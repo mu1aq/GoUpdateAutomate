@@ -32,7 +32,7 @@ A zero-dependency Bash script that manages multiple Go versions — install, swi
 ## Quick Start
 
 ```bash
-git clone git@github.com:0x653o/GoUpdateAutomate.git
+git clone https://github.com/mu1aq/GoUpdateAutomate.git
 cd GoUpdateAutomate
 chmod +x update_go.sh
 
